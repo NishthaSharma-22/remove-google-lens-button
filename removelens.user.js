@@ -7,7 +7,9 @@
 // @match        https://www.google.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
-// @license      CC0
+// @license      MIT
+// @homepageURL  https://github.com/NishthaSharma-22/remove-google-lens-button/
+// supportURL    https://github.com/NishthaSharma-22/remove-google-lens-button/issues
 // ==/UserScript==
 
 (function() {
